@@ -1,0 +1,14 @@
+Sebastian Bobenrieth
+201873535-3
+p.201
+Porgramo las funciones de Insert, search, destruir e inicializar
+
+Sofía Mañana Bañales
+201804535-7
+p.202
+Programo funciones hash y p, ayudo a programar funcion principal
+
+Isidora Ubilla
+201804581-0
+p.201
+Programo funcion principal, ayudo con las hash y p
